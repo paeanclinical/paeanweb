@@ -183,7 +183,7 @@ i {
 
 /* HEADER SECTION */
 .headerimage {
-	background: url(file:///Users/lane/Dev/paeanweb/paeanweb/assets/img/change_the_world.jpg) no-repeat center top;
+	background: url(http://www.paeanclinical.com/assets/img/change_the_world.jpg) no-repeat center top;
 }
 #h {
 	padding-top: 230px;
@@ -235,7 +235,7 @@ i {
 }
 
 .s02 {
-	background-image: url(../img/Image_AutomatedMicroscope_01.jpg);
+	background-image: url(http://www.paeanclinical.com/img/Image_AutomatedMicroscope_01.jpg);
 }
 
 
